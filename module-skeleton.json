@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-orchestration-nuxt",
+  "capabilityKey": "planned:ecommerce:order-orchestration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-order-orchestration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-orchestration.md",
+  "presentationPlan": "projects/ecommerce/nuxt/order-orchestration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
